@@ -1,0 +1,2 @@
+    @Environment(\.modelContext) private var modelContext
+    @Query private var users: [User]
