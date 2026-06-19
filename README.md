@@ -2,27 +2,34 @@
 
 # iCanStudy
 
-iCanStudy is a gamified study productivity application developed during the 1-month Apple Developer Academy Foundation Program. The app encourages users to stay focused and build consistent study habits through positive reinforcement, interactive rewards, and engaging visual feedback.
+iCanStudy is a gamified iOS study productivity application developed during the Apple Developer Academy Foundation Program. The project was created to address a common challenge faced by students: maintaining focus and motivation during study sessions.
+
+By combining productivity tools with game-inspired reward mechanics, iCanStudy transforms studying into a more engaging and rewarding experience. Users earn virtual rewards for staying focused, track their progress over time, and interact with a virtual aquarium that grows alongside their study achievements.
 
 ## Features
 
-### 🐚 Reward System
-Earn seashells for every 5 minutes of focused study, aiming to provide immediate positive reinforcement for productive sessions.
+### 🐚 Reward-Based Focus System
+Earn seashells for every 5 minutes of focused study, providing immediate positive reinforcement and encouraging consistent study habits.
 
 ### 🐟 Virtual Aquarium
-Use collected seashells to purchase fish that populate and animate a personal in-app aquarium, creating a sense of progression and achievement.
+Use collected seashells to purchase fishes that populate a personal virtual aquarium, creating a visual representation of study achievements.
 
-### 🍥 Interactive Feeding
-Feed your fish by tapping the screen and watch them swim toward the food, adding a playful and interactive element to the experience.
+### 🍥 Interactive Fish Feeding
+Feed your fishes by tapping the screen and watch them swim toward the food, adding an engaging and playful element to the experience.
 
 ### ⭐ Study Session Tools
-- Optional background study music
-- Structured 5×5-minute break system
-- Slide-to-quit functionality to prevent accidental session termination
+* Optional background study music
+* Structured 5×5-minute study and break system
+* Slide-to-quit functionality to prevent accidental session termination
 
 ### 📊 Progress Tracking
-Monitor study streaks and total focus time through visual progress indicators and study statistics.
+Monitor study streaks and total focus time through visual statistics that encourage consistency and long-term habit formation.
+
+## Tech Stack
+* Swift
+* UIKit
+* Storyboard
+* AVFoundation
 
 ## Development
-
-Developed collaboratively using **Swift** and guided by **Apple Human Interface Guidelines (HIG)** and design thinking principles, with a focus on user engagement, motivation, and long-term habit formation.
+This project was developed collaboratively using **Swift** and guided by Apple's **Human Interface Guidelines** (HIG) and design thinking methodology. The development process focused on creating an intuitive user experience that promotes motivation, engagement, and sustainable study habits.
